@@ -1,5 +1,5 @@
 
 def run_guessing_game
- rand(1..6) 
-  puts 
+ rand(6)+1 
+  
 end  
